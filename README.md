@@ -69,6 +69,7 @@ career forward:
 [![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=101010)]()
 [![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)]()
+[![Elixir](https://img.shields.io/badge/Elixir-000000?style=for-the-badge&logo=elixir&logoColor=white&labelColor=101010)]()
 <br>
 <!--
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
