@@ -85,11 +85,11 @@ career forward:
 \
 <br>
 <a href="https://github.com/SaladinoBelisario">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaladinoBelisario&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaladinoBelisario&theme=blueberry&hide_langs_below=1" />
 </a>
 <br>
 <br>
 <a href="https://github.com/SaladinoBelisario">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SaladinoBelisario&show_icons=true&theme=dark&line_height=30" alt="Saladino's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SaladinoBelisario&show_icons=true&theme=blueberry&line_height=40" alt="Saladino's github stats"/>
 </a>
 
