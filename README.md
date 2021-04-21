@@ -90,6 +90,6 @@ career forward:
 <br>
 <br>
 <a href="https://github.com/SaladinoBelisario">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SaladinoBelisario&show_icons=true&theme=blueberry&line_height=40" alt="Saladino's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SaladinoBelisario&show_icons=true&theme=blueberry&line_height=40&count_private=true" alt="Saladino's github stats"/>
 </a>
 
