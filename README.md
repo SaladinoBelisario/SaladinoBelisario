@@ -71,8 +71,9 @@ career forward:
 [![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)]()
 [![Elixir](https://img.shields.io/badge/Elixir-000000?style=for-the-badge&logo=elixir&logoColor=white&labelColor=101010)]()
 <br>
-<!--
+
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
+<!--
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=101010)]()
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=101010)]()
 -->
