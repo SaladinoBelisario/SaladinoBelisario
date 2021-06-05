@@ -33,7 +33,7 @@ career forward:
 [![GitHub](https://img.shields.io/badge/GitHub-F05032?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 [![GitLab](https://img.shields.io/badge/GitLab-F05032?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)]()
 <br>
-<!--[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white&labelColor=101010)]()-->
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white&labelColor=101010)]()
 [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white&labelColor=101010)]()
 <br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
