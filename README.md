@@ -7,7 +7,7 @@ stuff. I speak Spanish, English, some German, and trying to learn Russian and
 Chinese (Mandarin).
 
 ## What my career is:
-Java Developer since 2016, I'm currently improving my skills to be a 
+Java Developer since 2016, I'm currently improving my skills to become a successful 
 Software Architect, I'm preparing myself in the next topics to leap my 
 career forward:
 * Systems Design.
@@ -33,7 +33,7 @@ career forward:
 [![GitHub](https://img.shields.io/badge/GitHub-F05032?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 [![GitLab](https://img.shields.io/badge/GitLab-F05032?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)]()
 <br>
-<!--[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white&labelColor=101010)]()-->
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white&labelColor=101010)]()
 [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white&labelColor=101010)]()
 <br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
@@ -41,9 +41,10 @@ career forward:
 [![MariaDB](https://img.shields.io/badge/MariaDB-4479A1?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=101010)]()
 <br>
 [![JUnit5](https://img.shields.io/badge/JUnit5-4479A1?style=for-the-badge&logo=junit5&logoColor=white&labelColor=101010)]()
-<!--
+
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
+<!--
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=101010)]()
 -->
 
@@ -61,24 +62,36 @@ career forward:
 <!--
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
 [![React Native](https://img.shields.io/badge/React_Native-02569B?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
 -->
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
+[![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 
-[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()
+[![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)]()
+
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=101010)]()
-[![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)]()
-[![Elixir](https://img.shields.io/badge/Elixir-000000?style=for-the-badge&logo=elixir&logoColor=white&labelColor=101010)]()
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)]()
+[![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white&labelColor=101010)]()
 <br>
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=101010)]()
 <!--
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=101010)]()
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=101010)]()
 -->
+
+[![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white&labelColor=010101)]()
+[![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white&labelColor=010101)]()
+
+
 
 <!--
 [![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white&labelColor=101010)]()
